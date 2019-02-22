@@ -71,14 +71,14 @@
     background-color: #985de5;
     margin-right:0.03rem;
     float:left;
-    border-radius: 0.1rem;
+    border-radius: 0.16rem;
 }
 .circle .circle2
 {
     width:0.08rem;
     height:0.08rem;
     background-color: #d6bef5;
-    border-radius:0.1rem;
+    border-radius:0.16rem;
     float:left;
 }
 .middle1 .p

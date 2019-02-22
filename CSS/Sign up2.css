@@ -332,7 +332,7 @@
     width: 0.26rem;
     height: 0.26rem;
     border: solid 2px #e1e1e1;
-    border-radius: 50%;
+    border-radius: 0.52rem;
     position: absolute;
     top:2.03rem;
     left:1.55rem;
@@ -345,7 +345,7 @@
     width: 0.12rem;
     height: 0.12rem;
     background-color: #d2d3d4;
-    border-radius: 50%;
+    border-radius: 0.24rem;
 }
 .footer .p
 {

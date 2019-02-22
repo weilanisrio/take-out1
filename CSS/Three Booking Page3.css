@@ -686,7 +686,7 @@
     color: #b8b8b8;
     position: absolute;
     bottom:0.28rem;
-    left:1.67rem;
+    left:1.53rem;
 }
 .middle9 .middleRight
 {
@@ -1151,11 +1151,12 @@
     position: absolute;
     top:0.21rem;
     right:0.24rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footerRight p
 {
-    width: 0.78rem;
-    height: 0.25rem;
     font-size: 0.26rem;
     font-weight: normal;
     font-stretch: normal;

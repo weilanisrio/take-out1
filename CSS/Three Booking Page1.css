@@ -49,19 +49,17 @@
     height: 0.44rem;
     background-image: linear-gradient(#ffffff, #ffffff), linear-gradient(#000000, #000000);
     background-blend-mode: normal, normal;
-    border-radius: 50%;
+    border-radius: 0.88rem;
     position: absolute;
     top:0.28rem;
     right:0.84rem;
 }
 .ThreePageC1 span
 {
-    width: 0.24rem;
-    height: 0.21rem;
     color:#f85828;
     font-size:0.24rem;
-    line-height: 0.01rem;
-    margin-left:0.08rem;
+    line-height: 0.02rem;
+    margin-left:0.09rem;
     margin-top:-0.04rem;
 }
 .ThreePageTop1 .ThreePageC2
@@ -70,15 +68,13 @@
     height: 0.44rem;
     background-image: linear-gradient(#ffffff, #ffffff), linear-gradient(#000000, #000000);
     background-blend-mode: normal, normal;
-    border-radius: 50%;
+    border-radius: 0.88rem;
     position: absolute;
     top:0.28rem;
     right:0.24rem;
 }
 .ThreePageC2 span
 {
-    width: 0.24rem;
-    height: 0.21rem;
     color:#f85828;
     font-size:0.24rem;
     line-height: 0.01rem;
@@ -106,8 +102,6 @@
 }
 .ThreePageTop1 .p
 {
-    width: 3.47rem;
-    height: 0.29rem;
     font-size: 0.30rem;
     font-weight: normal;
     font-stretch: normal;
@@ -123,7 +117,7 @@
     height: 0.28rem;
     background-image: linear-gradient(#fefefe, #fefefe), linear-gradient(#000000, #000000);
     background-blend-mode: normal, normal;
-    border-radius: 50%;
+    border-radius: 0.56rem;
     position: absolute;
     top:1.66rem;
     left:2.49rem;
@@ -131,14 +125,13 @@
 }
 .ThreePageAddress span
 {
-   /* width: 0.11rem;
-    height: 0.18rem;*/
     color:#19bc33;
     font-size:0.2rem;
-    background-blend-mode: normal, normal;
     font-family: 'iconfont';
-    margin-top:-0.25rem;
-    margin-left:-0.11rem;
+    margin-top:-0.27rem;
+    margin-left:-0.1rem;
+    text-align: center;
+    line-height: 0.28rem;
 }
 .ThreePageTop1 .p1
 {
@@ -193,7 +186,7 @@
     width: 0.11rem;
     height: 0.11rem;
     background-color: #0db31f;
-    border-radius: 50%;
+    border-radius: 0.22rem;
     position: absolute;
     left:3.61rem;
     top:2.2rem;
@@ -206,7 +199,7 @@
     width: 0.05rem;
     height: 0.05rem;
     background-color: #feffff;
-    border-radius: 50%;
+    border-radius: 0.1rem;
 }
 .ThreePageTop1 .p2
 {
@@ -299,7 +292,7 @@
     width: 0.12rem;
     height: 0.12rem;
     background-color: #0db31f;
-    border-radius: 50%;
+    border-radius: 0.24rem;
     position: absolute;
     left:0.24rem;
     top:0.44rem;
@@ -312,7 +305,7 @@
     width: 0.06rem;
     height: 0.06rem;
     background-color: #feffff;
-    border-radius: 50%;
+    border-radius: 0.12rem;
 }
 .header p
 {
@@ -339,7 +332,7 @@
     width: 0.1rem;
     height:0.1rem;
     background-color: #ffffff;
-    border-radius: 50%;
+    border-radius: 0.2rem;
     float:left;
 }
 .ThreePage .header1
@@ -385,7 +378,7 @@
     width: 0.12rem;
     height: 0.12rem;
     background-color:#ffffff;
-    border-radius: 50%;
+    border-radius: 0.24rem;
     position:absolute;
     top:0.21rem;
     left:0.13rem;
@@ -398,14 +391,14 @@
     width: 0.06rem;
     height: 0.06rem;
     background-color: #81f535;
-    border-radius: 50%;
+    border-radius: 0.12rem;
 }
 .Booking2 .Booking5
 {
     width: 0.12rem;
     height: 0.12rem;
     background-color:#ffffff;
-    border-radius: 50%;
+    border-radius: 0.24rem;
     position:absolute;
     top:0.21rem;
     right:0.13rem;
@@ -418,7 +411,7 @@
     width: 0.06rem;
     height: 0.06rem;
     background-color: #81f535;
-    border-radius: 50%;
+    border-radius: 0.12rem;
 }
 .Booking2 p
 {
@@ -562,7 +555,7 @@
     position: absolute;
     top:0.22rem;
     left:0.13rem;
-    border-radius: 50%;
+    border-radius: 2.36rem;
 }
 .middle10 img
 {
@@ -614,7 +607,7 @@
 {
     width: 0.04rem;
     height: 0.04rem;
-    border-radius: 50%;
+    border-radius: 0.08rem;
     background:#cecece;
     margin-right:0.02rem;
     float:left;
@@ -623,7 +616,7 @@
 {
     width: 0.04rem;
     height: 0.04rem;
-    border-radius: 50%;
+    border-radius: 0.08rem;
     background:#5c5c5c;
     margin-right:0.02rem;
     float:left;
@@ -656,10 +649,10 @@
 }
 .middle9 .MiddleC1
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 0.13rem;
+    height: 0.13rem;
     background-color: #f79f9d;
-    border-radius: 50%;
+    border-radius: 0.26rem;
     position: absolute;
     bottom:0.23rem;
     left:1.53rem;
@@ -669,10 +662,10 @@
 }
 .MiddleC1 .MiddleC2
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 0.07rem;
+    height: 0.07rem;
     background-color: #ed312f;
-    border-radius: 50%;
+    border-radius: 0.14rem;
 }
 .middle9 .p3
 {
@@ -693,7 +686,7 @@
     height: 0.38rem;
     background:rgba(127,244,57,0.6);
     opacity: 0.5;
-    border-radius: 50%;
+    border-radius: 0.76rem;
     position: absolute;
     right:0.21rem;
     top:0.61rem;
@@ -707,7 +700,7 @@
     width: 0.32rem;
     height: 0.32rem;
     background-color: #7ff439;
-    border-radius: 50%;
+    border-radius: 0.64rem;
     position: relative;
 
 }
@@ -744,7 +737,7 @@
     width: 0.72rem;
     height: 0.72rem;
     background-color: #464646;
-    border-radius: 50%;
+    border-radius: 1.44rem;
     position: absolute;
     left:0.24rem;
     top:0.13rem;
@@ -759,6 +752,7 @@
     font-family:"iconfont";
     color:black;
     font-size:0.4rem;
+    line-height:0.72rem;
 }
 .footer .p
 {
@@ -795,16 +789,17 @@
     position: absolute;
     top:0.21rem;
     right:0.24rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footerRight p
 {
-    width: 0.78rem;
-    height: 0.25rem;
     font-size: 0.26rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #e2e2e2;
     line-height: 0.56rem;
-    margin:0 auto;
+    text-align:center;
 }
