@@ -297,8 +297,8 @@
 }
 .header .headerC
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color: #0db31f;
     border-radius: 50%;
     position: absolute;
@@ -310,8 +310,8 @@
 }
 .headerC .headerC1
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 4px;
+    height: 4px;
     background-color: #feffff;
     border-radius: 50%;
 }
@@ -1161,4 +1161,32 @@
     letter-spacing: 0;
     color: #ffffff;
     text-align: center;
+}
+
+.ThreePageTop1 .span1
+{
+    font-size:0.3rem;
+    color:white;
+    font-family: iconfont;
+    position: absolute;
+    top:1.66rem;
+    left:2.49rem;
+}
+.ThreePageTop1 .span2
+{
+    font-family: iconfont;
+    font-size:0.3rem;
+    position: absolute;
+    top:0.28rem;
+    right:0.84rem;
+    color:white;
+}
+.ThreePageTop1 .span3
+{
+    font-family: iconfont;
+    font-size:0.3rem;
+    position: absolute;
+    top:0.28rem;
+    right:0.24rem;
+    color:white;
 }
