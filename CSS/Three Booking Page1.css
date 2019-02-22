@@ -111,11 +111,11 @@
 }
 .ThreePageTop1 .ThreePageAddress
 {
-    width: 0.28rem;
-    height: 0.28rem;
+    width: 15px;
+    height: 15px;
     background-image: linear-gradient(#fefefe, #fefefe), linear-gradient(#000000, #000000);
     background-blend-mode: normal, normal;
-    border-radius: 0.56rem;
+    border-radius: 50%;
     position: absolute;
     top:1.66rem;
     left:2.49rem;
@@ -181,23 +181,23 @@
 }
 .ThreePageTop1 .ThreePageXC
 {
-    width: 0.11rem;
-    height: 0.11rem;
+    width: 6px;
+    height: 6px;
     background-color: #0db31f;
-    border-radius: 0.22rem;
+    border-radius: 50%;
     position: absolute;
     left:3.61rem;
-    top:2.2rem;
+    top:2.23rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .ThreePageXC .ThreePageXC1
 {
-    width: 0.05rem;
-    height: 0.05rem;
+    width: 4px;
+    height: 4px;
     background-color: #feffff;
-    border-radius: 0.1rem;
+    border-radius: 50%;
 }
 .ThreePageTop1 .p2
 {
@@ -210,7 +210,7 @@
     color: #fcdbd4;
     position: absolute;
     left:3.77rem;
-    top:2.12rem;
+    top:2.14rem;
 }
 .ThreePageTop1 .p3
 {
@@ -222,7 +222,7 @@
     letter-spacing: 0;
     color: #fcd9d5;
     position: absolute;
-    top:2.12rem;
+    top:2.14rem;
     left:4.57rem;
 }
 .ThreePageTop1 .qisong
@@ -247,8 +247,7 @@
     font-stretch: normal;
     letter-spacing: 0;
     color: #16ba2e;
-    line-height: 0.31rem;
-    margin:0 auto;
+    text-align:center;
 }
 .ThreePageTop1 .Star
 {
@@ -287,10 +286,10 @@
 }
 .header .headerC
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color: #0db31f;
-    border-radius: 0.24rem;
+    border-radius: 50%;
     position: absolute;
     left:0.24rem;
     top:0.44rem;
@@ -300,10 +299,10 @@
 }
 .headerC .headerC1
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 4px;
+    height: 4px;
     background-color: #feffff;
-    border-radius: 0.12rem;
+    border-radius: 50%;
 }
 .header p
 {
@@ -373,10 +372,10 @@
 }
 .Booking2 .Booking3
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color:#ffffff;
-    border-radius: 0.24rem;
+    border-radius: 50%;
     position:absolute;
     top:0.21rem;
     left:0.13rem;
@@ -386,17 +385,17 @@
 }
 .Booking3 .Booking4
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 3px;
+    height: 3px;
     background-color: #81f535;
-    border-radius: 0.12rem;
+    border-radius: 50%;
 }
 .Booking2 .Booking5
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color:#ffffff;
-    border-radius: 0.24rem;
+    border-radius: 50%;
     position:absolute;
     top:0.21rem;
     right:0.13rem;
@@ -406,10 +405,10 @@
 }
 .Booking5 .Booking6
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 3px;
+    height: 3px;
     background-color: #81f535;
-    border-radius: 0.12rem;
+    border-radius:50%;
 }
 .Booking2 p
 {
@@ -676,15 +675,15 @@
     color: #b8b8b8;
     position: absolute;
     bottom:0.28rem;
-    left:1.67rem;
+    left:1.53rem;
 }
 .middle9 .middleRight
 {
-    width: 0.38rem;
-    height: 0.38rem;
+    width: 19px;
+    height: 19px;
     background:rgba(127,244,57,0.6);
     opacity: 0.5;
-    border-radius: 0.76rem;
+    border-radius: 50%;
     position: absolute;
     right:0.21rem;
     top:0.61rem;
@@ -695,10 +694,10 @@
 
 .middleRight .middleRight1
 {
-    width: 0.32rem;
-    height: 0.32rem;
+    width: 16px;
+    height: 16px;
     background-color: #7ff439;
-    border-radius: 0.64rem;
+    border-radius: 50%;
     position: relative;
 
 }

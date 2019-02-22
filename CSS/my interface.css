@@ -176,7 +176,7 @@
 .circle2
 {
     width:7px;
-    height: 7px;
+    height:7px;
     background-color: #9da2ff;
     border-radius:50%;
     line-height:0.13rem;
@@ -284,8 +284,8 @@
 }
 .bottom1 h3
 {
-    width: 1.56rem;
-    height: 0.25rem;
+    width: 2rem;
+    height: 0.43rem;
     font-size: 0.26rem;
     line-height: 0.43rem;
     letter-spacing: 0;
@@ -344,10 +344,10 @@
 }
 .Signon .Signon11
 {
-    width:0.08rem;
-    height:0.08rem;
+    width:4px;
+    height:4px;
     background-color: #dedede;
-    border-radius:0.16rem;
+    border-radius:50%;
     float:left;
     margin-right:0.04rem;
 }
