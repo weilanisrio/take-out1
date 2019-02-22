@@ -431,7 +431,7 @@
     letter-spacing: 0;
     color: #787878;
     position: absolute;
-    bottom:1.87rem;
+    bottom:1.88rem;
     right:0.58rem;
 }
 .BookingMiddle1 span
@@ -442,7 +442,7 @@
     font-family:"iconfont";
     font-size: 0.4rem;
     position: absolute;
-    bottom:2.07rem;
+    bottom:2.08rem;
     right:0.45rem;
 }
 .BookingMiddle .BookingC9
@@ -490,7 +490,7 @@
     letter-spacing: 0;
     color: #fe775d;
     position: absolute;
-    bottom:0.68rem;
+    bottom:0.59rem;
     right:1.15rem;
 }
 .BookingMiddle1 .p10
@@ -501,7 +501,7 @@
     letter-spacing: 0;
     color: #585858;
     position: absolute;
-    bottom:0.72rem;
+    bottom:0.64rem;
     right:0.38rem;
 }
 .Booking .BookingOrder
@@ -630,10 +630,10 @@
 }
 .footer1 .footerC
 {
-    width: 0.13rem;
-    height: 0.13rem;
+    width: 6px;
+    height: 6px;
     background-color: #0db31f;
-    border-radius: 0.26rem;
+    border-radius: 50%;
     position: absolute;
     left:0.52rem;
     top:0.48rem;
@@ -643,10 +643,10 @@
 }
 .footerC .footerC1
 {
-    width: 0.07rem;
-    height: 0.07rem;
+    width: 4px;
+    height: 4px;
     background-color: #ffffff;
-    border-radius: 0.14rem;
+    border-radius: 50%;
 }
 .footer1 .p11
 {

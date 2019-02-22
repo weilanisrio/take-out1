@@ -257,7 +257,6 @@
     font-stretch: normal;
     letter-spacing: 0;
     color: #16ba2e;
-    line-height: 0.31rem;
     margin:0 auto;
 }
 .ThreePageTop1 .Star
@@ -629,21 +628,17 @@
 }
 .middle9 .p1
 {
-    width: 0.80rem;
-    height: 0.18rem;
-    font-size: 0.26rem;
+    font-size: 0.24rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #ed312f;
     position: absolute;
     left:1.53rem;
-    bottom:0.55rem;
+    bottom:0.4rem;
 }
 .middle .p2
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;
@@ -700,7 +695,6 @@
     justify-content: center;
     align-items: center;
 }
-
 .middleRight .middleRight1
 {
     width: 0.32rem;
@@ -772,8 +766,8 @@
     letter-spacing: 0;
     color: #585858;
     position: absolute;
-    top:0.6rem;
-    right:0.7rem;
+    top:0.58rem;
+    right:0.69rem;
 }
 .ThreePage .footer
 {
@@ -912,3 +906,20 @@
     right:0.24rem;
     color:white;
 }
+.middle9 .rightIMG
+{
+    position: absolute;
+    right:0.21rem;
+    top:0.61rem;
+    width:0.38rem;
+    height:0.38rem;
+}
+.middle9 .rightIMG1
+{
+    position: absolute;
+    right:0.93rem;
+    top:0.61rem;
+    width:0.38rem;
+    height:0.38rem;
+}
+

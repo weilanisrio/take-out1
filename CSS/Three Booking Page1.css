@@ -626,28 +626,24 @@
 }
 .middle9 .p1
 {
-    width: 0.80rem;
-    height: 0.18rem;
-    font-size: 0.26rem;
+    font-size: 0.24rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #ed312f;
     position: absolute;
     left:1.53rem;
-    bottom:0.55rem;
+    bottom:0.4rem;
 }
 .middle .p2
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #ed312f;
     position: absolute;
-    bottom:0.55rem;
+    bottom:0.4rem;
     left:2.35rem;
 }
 .middle9 .MiddleC1
@@ -708,23 +704,23 @@
 }
 .middleRight1 .shugang
 {
-    width: 0.14rem;
-    height: 0.02rem;
+    width: 10px;
+    height: 1px;
     background-color: #feffff;
     border-radius: 0.01rem;
     position: absolute;
-    top:0.15rem;
-    left:0.09rem;
+    top:0.14rem;
+    left:0.07rem;
 }
 .middleRight1 .shugang1
 {
-    width: 0.02rem;
-    height: 0.14rem;
+    width:1px ;
+    height: 10px;
     background-color: #feffff;
     border-radius: 0.01rem;
     position: absolute;
-    left:0.15rem;
-    top:0.09rem;
+    left:0.14rem;
+    top:0.07rem;
 }
 .ThreePage .footer
 {
@@ -803,4 +799,13 @@
     letter-spacing: 0;
     color: #e2e2e2;
     text-align:center;
+}
+
+.middle9 .rightIMG
+{
+    position: absolute;
+    right:0.21rem;
+    top:0.61rem;
+    width:0.38rem;
+    height:0.38rem;
 }

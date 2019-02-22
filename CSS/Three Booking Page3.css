@@ -191,8 +191,8 @@
 }
 .ThreePageTop1 .ThreePageXC
 {
-    width: 0.11rem;
-    height: 0.11rem;
+    width: 6px;
+    height: 6px;
     background-color: #0db31f;
     border-radius: 50%;
     position: absolute;
@@ -204,8 +204,8 @@
 }
 .ThreePageXC .ThreePageXC1
 {
-    width: 0.05rem;
-    height: 0.05rem;
+    width: 4px;
+    height: 4px;
     background-color: #feffff;
     border-radius: 50%;
 }
@@ -220,7 +220,7 @@
     color: #fcdbd4;
     position: absolute;
     left:3.77rem;
-    top:2.12rem;
+    top:2.15rem;
 }
 .ThreePageTop1 .p3
 {
@@ -232,7 +232,7 @@
     letter-spacing: 0;
     color: #fcd9d5;
     position: absolute;
-    top:2.12rem;
+    top:2.15rem;
     left:4.57rem;
 }
 .ThreePageTop1 .qisong
@@ -257,7 +257,6 @@
     font-stretch: normal;
     letter-spacing: 0;
     color: #16ba2e;
-    line-height: 0.31rem;
     margin:0 auto;
 }
 .ThreePageTop1 .Star
@@ -303,7 +302,7 @@
     border-radius: 50%;
     position: absolute;
     left:0.24rem;
-    top:0.44rem;
+    top:0.43rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -631,21 +630,17 @@
 }
 .middle9 .p1
 {
-    width: 0.80rem;
-    height: 0.18rem;
-    font-size: 0.26rem;
+    font-size: 0.24rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #ed312f;
     position: absolute;
     left:1.53rem;
-    bottom:0.55rem;
+    bottom:0.4rem;
 }
 .middle .p2
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;
@@ -777,7 +772,7 @@
     color: #585858;
     position: absolute;
     top:0.58rem;
-    right:0.7rem;
+    right:0.69rem;
 }
 .ThreePage .tanchu
 {
@@ -1083,8 +1078,8 @@
 }
 .footer .footerC
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color: #f79f9d;
     border-radius: 50%;
     position: absolute;
@@ -1096,8 +1091,8 @@
 }
 .footerC .footerC1
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 4px;
+    height: 4px;
     background-color: #ed312f;
     border-radius: 50%;
 
@@ -1190,3 +1185,40 @@
     right:0.24rem;
     color:white;
 }
+
+.middle9 .rightIMG
+{
+    position: absolute;
+    right:0.21rem;
+    top:0.61rem;
+    width:0.38rem;
+    height:0.38rem;
+}
+
+.middle9 .rightIMG1
+{
+    position: absolute;
+    right:0.93rem;
+    top:0.61rem;
+    width:0.38rem;
+    height:0.38rem;
+}
+
+.tanchu1 .rightIMG2
+{
+    position: absolute;
+    right:0.46rem;
+    top:0.85rem;
+    width:0.38rem;
+    height:0.38rem;
+}
+
+.tanchu1 .rightIMG3
+{
+    position: absolute;
+    right:1.18rem;
+    top:0.85rem;
+    width:0.38rem;
+    height:0.38rem;
+}
+
