@@ -41,7 +41,6 @@
 .Signup-Header1 p
 {
     font-size: 0.28rem;
-    line-height: 0.31rem;
     letter-spacing: 0;
     color: #cacaca;
     margin:0 auto;
@@ -65,8 +64,6 @@
     font-size: 0.28rem;
     font-weight: normal;
     font-stretch: normal;
-    line-height: 0.86rem;
-    letter-spacing: 0;
     color: #6c6c6c;
     position: absolute;
     top:2.6rem;
