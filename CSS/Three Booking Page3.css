@@ -765,15 +765,13 @@
 }
 .middle9 .p5
 {
-    width: 0.16rem;
-    height: 0.23rem;
     font-size: 0.32rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #585858;
     position: absolute;
-    top:0.59rem;
+    top:0.6rem;
     right:0.69rem;
 }
 .ThreePage .tanchu
@@ -874,8 +872,6 @@
 }
 .tanchu1 .p3
 {
-    width: 0.8rem;
-    height: 0.18rem;
     font-size: 0.26rem;
     font-weight: normal;
     font-stretch: normal;
@@ -883,12 +879,10 @@
     color: #ed312f;
     position: absolute;
     top:0.89rem;
-    right:2.33rem;
+    right:2rem;
 }
 .tanchu1 .p4
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;
@@ -978,8 +972,6 @@
 }
 .tanchu1 .p5
 {
-    width: 0.16rem;
-    height: 0.23rem;
     font-size: 0.32rem;
     font-weight: normal;
     font-stretch: normal;
@@ -991,8 +983,6 @@
 }
 .tanchu1 .p6
 {
-    width: 0.5rem;
-    height: 0.23rem;
     font-size: 0.24rem;
     font-weight: normal;
     font-stretch: normal;
@@ -1025,8 +1015,6 @@
 }
 .tanchu1 .p7
 {
-    width: 0.62rem;
-    height: 0.18rem;
     font-size: 0.26rem;
     font-weight: normal;
     font-stretch: normal;
@@ -1034,12 +1022,10 @@
     color: #ed312f;
     position: absolute;
     bottom:0.33rem;
-    right:2.34rem;
+    right:2rem;
 }
 .tanchu1 .p8
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;
@@ -1101,8 +1087,6 @@
 }
 .footer .p
 {
-    width: 0.8rem;
-    height: 0.18rem;
     font-size: 0.26rem;
     font-weight: normal;
     font-stretch: normal;
@@ -1114,8 +1098,6 @@
 }
 .footer .p3
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;

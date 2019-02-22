@@ -768,7 +768,7 @@
     letter-spacing: 0;
     color: #585858;
     position: absolute;
-    top:0.59rem;
+    top:0.6rem;
     right:0.69rem;
 }
 .ThreePage .footer
@@ -823,8 +823,6 @@
 }
 .footer .p
 {
-    width: 0.8rem;
-    height: 0.18rem;
     font-size: 0.26rem;
     font-weight: normal;
     font-stretch: normal;
@@ -849,8 +847,6 @@
 }
 .footer .p3
 {
-    width: 0.43rem;
-    height: 0.15rem;
     font-size: 0.22rem;
     font-weight: normal;
     font-stretch: normal;
