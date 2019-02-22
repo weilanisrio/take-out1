@@ -163,27 +163,29 @@
     justify-content: center;
     align-items: center;
 }
-.ThreePageK .ThreePageK1
+.ThreePageK1
 {
     width: 0.90rem;
     height: 0.30rem;
-    background-color: #45de7d;
+    background-color: white;
     border-radius: 0.15rem;
+    position: absolute;
+    left:2.49rem;
+    top:2.11rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .ThreePageK1 p
 {
-    /*width: 0.7rem;*/
-    /*height: 0.15rem;*/
+    /*width: 0.7rem;
+    height: 0.15rem;*/
     font-size: 0.20rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
-    color: #ffdcd3;
-    line-height: 0.3rem;
-    margin:0 auto;
+    color: #45de7d;
+    text-align:center;
 }
 .ThreePageTop1 .ThreePageXC
 {
@@ -238,7 +240,7 @@
     background-color: #feffff;
     border-radius: 0.16rem;
     position: absolute;
-    right:0.95rem;
+    left:3.5rem;
     top:2.11rem;
     display: flex;
     justify-content: center;
@@ -246,8 +248,8 @@
 }
 .qisong p
 {
-    /*width: 0.45rem;
-    height: 0.19rem;*/
+    /*  width: 0.45rem;
+      height: 0.19rem;*/
     font-size: 0.20rem;
     font-weight: normal;
     font-stretch: normal;
@@ -280,7 +282,7 @@
     letter-spacing: 0;
     color: #fddad6;
     position: absolute;
-    bottom:0.39rem;
+    bottom:0.38rem;
     right:3.16rem;
 }
 .ThreePage .header

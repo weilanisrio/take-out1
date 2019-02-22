@@ -63,7 +63,7 @@
 }
 .middle .circle
 {
-    width:0.19rem;
+    width:0.25rem;
     height:0.08rem;
     position: absolute;
     top:0.62rem;
@@ -71,8 +71,8 @@
 }
 .circle .circle1
 {
-    width:0.08rem;
-    height:0.08rem;
+    width:4px;
+    height:4px;
     background-color: #985de5;
     margin-right:0.03rem;
     float:left;
@@ -80,8 +80,8 @@
 }
 .circle .circle2
 {
-    width:0.08rem;
-    height:0.08rem;
+    width:4px;
+    height:4px;
     background-color: #d6bef5;
     border-radius:50%;
     float:left;
@@ -150,7 +150,7 @@
     color: #cacaca;
     position:absolute;
     top:0.98rem;
-    right:3.26rem;
+    right:2.48rem;
 }
 .middle .p4
 {
@@ -159,7 +159,7 @@
     color: #8d8d8d;
     position:absolute;
     top:0.97rem;
-    right:2.55rem;
+    right:2.5rem;
 }
 .PriceX
 {
@@ -187,7 +187,7 @@
     color: #cacaca;
     position:absolute;
     top:0.98rem;
-    right:1.06rem;
+    right:0.24rem;
 }
 .middle .p6
 {
@@ -371,6 +371,7 @@
     color: #ffffff;
     text-align: center;
     margin:0 auto;
+    line-height:0.41rem;
 }
 .other1 .circle2
 {
@@ -410,4 +411,5 @@
     color: #ffffff;
     text-align: center;
     margin:0 auto;
+    line-height:0.41rem;
 }

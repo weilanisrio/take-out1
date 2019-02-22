@@ -166,27 +166,29 @@
     justify-content: center;
     align-items: center;
 }
-.ThreePageK .ThreePageK1
+.ThreePageK1
 {
     width: 0.90rem;
     height: 0.30rem;
-    background-color: #45de7d;
+    background-color: white;
     border-radius: 0.15rem;
+    position: absolute;
+    left:2.49rem;
+    top:2.11rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .ThreePageK1 p
 {
-    /*width: 0.7rem;*/
-    /*height: 0.15rem;*/
+    /*width: 0.7rem;
+    height: 0.15rem;*/
     font-size: 0.20rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
-    color: #ffdcd3;
-    line-height: 0.3rem;
-    margin:0 auto;
+    color: #45de7d;
+    text-align:center;
 }
 
 .ThreePageTop1 .ThreePageXC
@@ -242,7 +244,7 @@
     background-color: #feffff;
     border-radius: 0.16rem;
     position: absolute;
-    right:0.95rem;
+    left:3.5rem;
     top:2.11rem;
     display: flex;
     justify-content: center;
@@ -250,14 +252,14 @@
 }
 .qisong p
 {
-   /* width: 0.45rem;
-    height: 0.19rem;*/
+    /*  width: 0.45rem;
+      height: 0.19rem;*/
     font-size: 0.20rem;
     font-weight: normal;
     font-stretch: normal;
     letter-spacing: 0;
     color: #16ba2e;
-    margin:0 auto;
+    text-align:center;
 }
 .ThreePageTop1 .Star
 {
@@ -284,7 +286,7 @@
     letter-spacing: 0;
     color: #fddad6;
     position: absolute;
-    bottom:0.39rem;
+    bottom:0.38rem;
     right:3.16rem;
 }
 .ThreePage .header
@@ -380,8 +382,8 @@
 }
 .Booking2 .Booking3
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color:#ffffff;
     border-radius: 50%;
     position:absolute;
@@ -393,15 +395,15 @@
 }
 .Booking3 .Booking4
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 4px;
+    height: 4px;
     background-color: #81f535;
     border-radius: 50%;
 }
 .Booking2 .Booking5
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 6px;
+    height: 6px;
     background-color:#ffffff;
     border-radius: 50%;
     position:absolute;
@@ -413,8 +415,8 @@
 }
 .Booking5 .Booking6
 {
-    width: 0.06rem;
-    height: 0.06rem;
+    width: 4px;
+    height: 4px;
     background-color: #81f535;
     border-radius: 50%;
 }
@@ -766,7 +768,7 @@
     letter-spacing: 0;
     color: #585858;
     position: absolute;
-    top:0.58rem;
+    top:0.59rem;
     right:0.69rem;
 }
 .ThreePage .footer
