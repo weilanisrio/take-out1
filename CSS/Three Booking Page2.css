@@ -882,9 +882,7 @@
 .footerRight p
 {
     font-size: 0.26rem;
-    font-weight: normal;
-    font-stretch: normal;
     letter-spacing: 0;
     color: #ffffff;
-    line-height: 0.56rem;
+    text-align:center;
 }

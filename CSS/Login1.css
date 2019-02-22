@@ -207,15 +207,14 @@
     left:0.61rem;
     bottom:0.51rem;
 }
-.middleC1 p
+.middle span
 {
+    font-family: iconfont;
     font-size: 0.18rem;
-    font-weight: normal;
-    font-stretch: normal;
-    line-height: 0.23rem;
-    letter-spacing: 0;
-    color: #ffffff;
-    text-align:center;
+    color: #ff2947;
+    position: absolute;
+    left:0.61rem;
+    bottom:0.51rem;
 }
 .middle .p4
 {

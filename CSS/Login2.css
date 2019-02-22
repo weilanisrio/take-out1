@@ -146,6 +146,15 @@
     right:0.73rem;
     top:1.27rem;
 }
+.middle .span2
+{
+    font-family: iconfont;
+    font-size: 0.18rem;
+    color: #ff2947;
+    position: absolute;
+    left:0.61rem;
+    bottom:0.51rem;
+}
 .middle .middleline1
 {
     width: 5.07rem;

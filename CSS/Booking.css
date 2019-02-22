@@ -93,12 +93,10 @@
 .BookingAddress1 p
 {
     font-size: 0.18rem;
-    font-weight: normal;
-    font-stretch: normal;
     letter-spacing: 0;
     color: #ffffff;
     line-height: 0.23rem;
-    margin:0 auto;
+    text-align:center;
 }
 .BookingHeader1 .p1
 {
@@ -365,7 +363,7 @@
     color: #585858;
     position: absolute;
     left:3.78rem;
-    top:0.18rem;
+    top:0.21rem;
 }
 .dingdan1 .p3
 {
@@ -375,7 +373,7 @@
     letter-spacing: 0;
     color: #fe775d;
     position: absolute;
-    top:0.18rem;
+    top:0.21rem;
     right:0.61rem;
 }
 .dingdan1 .p4
@@ -504,7 +502,7 @@
     letter-spacing: 0;
     color: #585858;
     position: absolute;
-    bottom:0.76rem;
+    bottom:0.72rem;
     right:0.38rem;
 }
 .Booking .BookingOrder
@@ -636,7 +634,7 @@
     width: 0.13rem;
     height: 0.13rem;
     background-color: #0db31f;
-    border-radius: 50%;
+    border-radius: 0.26rem;
     position: absolute;
     left:0.52rem;
     top:0.48rem;
@@ -649,7 +647,7 @@
     width: 0.07rem;
     height: 0.07rem;
     background-color: #ffffff;
-    border-radius: 50%;
+    border-radius: 0.14rem;
 }
 .footer1 .p11
 {

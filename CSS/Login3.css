@@ -138,13 +138,22 @@
     right:0.73rem;
 }
 .middle span
+ {
+     font-family: iconfont;
+     font-size: 0.28rem;
+     color:#fd466d;
+     position: absolute;
+     right:0.73rem;
+     top:1.27rem;
+ }
+.middle .span2
 {
     font-family: iconfont;
-    font-size: 0.28rem;
-    color:#fd466d;
+    font-size: 0.18rem;
+    color: #ff2947;
     position: absolute;
-    right:0.73rem;
-    top:1.27rem;
+    left:0.61rem;
+    bottom:0.51rem;
 }
 .middle .middleCircle2
 {
