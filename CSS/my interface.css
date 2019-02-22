@@ -167,18 +167,18 @@
 }
 .circle1
 {
-    width: 0.13rem;
-    height: 0.13rem;
+    width: 13px;
+    height: 13px;
     background-color: #ebecff;
     border-radius: 50%;
     position:relative;
 }
 .circle2
 {
-    width: 0.07rem;
-    height: 0.07rem;
+    width:7px;
+    height: 7px;
     background-color: #9da2ff;
-    border-radius: 1.14rem;
+    border-radius:50%;
     line-height:0.13rem;
     position: absolute;
     top:0;
@@ -189,8 +189,8 @@
 }
 .circle5
 {
-    width: 0.13rem;
-    height: 0.13rem;
+    width: 13px;
+    height: 13px;
     position: absolute;
     top:0.42rem;
     right:0.32rem;
@@ -363,8 +363,8 @@
 }
 .Signon7 .Signon8
 {
-    width: 0.12rem;
-    height: 0.12rem;
+    width: 8px;
+    height: 8px;
     background-color: #9da2ff;
     border-radius: 50%;
     position: absolute;
@@ -376,8 +376,8 @@
 }
 .Signon8 .Signon9
 {
-    width: 0.04rem;
-    height: 0.04rem;
+    width: 4px;
+    height: 4px;
     background-color: #ffffff;
     border-radius: 50%;
     position: absolute;
