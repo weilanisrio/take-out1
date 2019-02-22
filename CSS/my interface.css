@@ -124,14 +124,14 @@
 {
     color:#ffffff ;
     text-align:center;
-    line-height:0.65rem;
+    line-height:0.69rem;
     font-size:0.36rem;
 }
 .collect1 .collect3
 {
     color:#ffffff ;
     text-align:center;
-    line-height:0.65rem;
+    line-height:0.69rem;
     font-size:0.38rem;
     margin-left:0.04rem;
 }
@@ -178,7 +178,7 @@
     width: 0.07rem;
     height: 0.07rem;
     background-color: #9da2ff;
-    border-radius: 50%;
+    border-radius: 1.14rem;
     line-height:0.13rem;
     position: absolute;
     top:0;
@@ -347,7 +347,7 @@
     width:0.08rem;
     height:0.08rem;
     background-color: #dedede;
-    border-radius: 4px;
+    border-radius:0.16rem;
     float:left;
     margin-right:0.04rem;
 }

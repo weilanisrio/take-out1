@@ -448,6 +448,7 @@
     font-weight: normal;
     letter-spacing: 0;
     color: #fadfe4;
+    line-height: 0.3rem;
     /*margin-left:0.1rem;*/
     font-family: PingFang-SC-Heavy;
     font-stretch: normal;
@@ -473,6 +474,7 @@
     font-family: PingFang-SC-Heavy;
     font-stretch: normal;
     text-align: center;
+    line-height: 0.3rem;
 }
 .Cheap
 {
@@ -494,6 +496,7 @@
     font-family: PingFang-SC-Heavy;
     font-stretch: normal;
     text-align: center;
+    line-height: 0.3rem;
 }
 .Grab
 {
