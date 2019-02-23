@@ -322,19 +322,19 @@
     top:0.21rem;
     left:1.04rem;
 }
-.dingdan1 .middleRight
+.dingdan1 .middleRight2
 {
     width: 0.41rem;
     height: 0.41rem;
-    background:rgba(127,244,57,0.6);
-    opacity: 0.5;
-    border-radius: 50%;
+   /* background:rgba(127,244,57,0.6);*/
+   /* opacity: 0.5;*/
+   /* border-radius: 50%;*/
     position: absolute;
     right:3.05rem;
     top:0.17rem;
-    display: flex;
+   /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;*/
 }
 
 .middleRight .middleRight1
