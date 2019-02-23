@@ -777,7 +777,8 @@
     height: 0.98rem;
     background-color: #ffffff;
     box-shadow: 0 -2px 5px 0 rgba(221, 221, 221, 0.57);
-    position: relative;
+    position: fixed;
+    bottom:0;
 }
 .footer .footer1
 {
